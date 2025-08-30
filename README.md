@@ -1,4 +1,4 @@
 # Demo
 This is a demo Repository.
-<hr>
-Aurhor: Satirtha
+<br>
+Aurhor: Satirtha Barman
